@@ -1,0 +1,2 @@
+# Garbage-segregation-using-YOLOv5
+Garbage segregation has been a major problem for a while now particularly with major cities producing tons of waste at an increasing rate every year. It is important address this problem, one of  the best ways to do it is by treating waste materials to make it so that those materials can be reused or recycled. But the problem comes with the fact that every material in these wastes need to be treated differently and so they need to be segregated.
